@@ -1,0 +1,4 @@
+2024-05-11 15:55:09,127::INFO::TC4: Nop Commerce verify Search option using email
+2024-05-11 15:55:09,128::INFO::TC4: Browser launched successfully
+2024-05-11 15:55:13,329::INFO::TC4: Navigated to dashboard page
+2024-05-11 15:55:20,516::INFO::TC4: Navigated to customer page

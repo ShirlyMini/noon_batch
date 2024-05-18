@@ -1,0 +1,4 @@
+2024-05-11 15:27:44,424::INFO::TC3: Nop Commerce verify Add Customer
+2024-05-11 15:27:44,425::INFO::TC3: Browser lauched successfully
+2024-05-11 15:27:48,959::INFO::TC3: Navigated to dashbord page
+2024-05-11 15:28:01,044::INFO::TC3: Nop Commerce verify Add Customer = PASSED

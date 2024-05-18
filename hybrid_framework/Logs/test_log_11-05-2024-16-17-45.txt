@@ -1,0 +1,10 @@
+2024-05-11 16:18:01,866::INFO::TC1: Nop Commerce verify launch page title
+2024-05-11 16:18:01,891::INFO::TC1: Nop Commerce verify launch page title = PASSED
+2024-05-11 16:18:20,682::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-11 16:18:20,683::INFO::TC1_DDT: Browser launched successfully
+2024-05-11 16:18:25,147::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-11 16:18:25,171::INFO::TC1_DDT: Nop Commerce verify dashboard page title admin@yourstore.com admin =  2024-05-2024-05-11 16:18:41,926::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-11 16:18:41,928::INFO::TC1_DDT: Browser launched successfully
+2024-05-11 16:18:43,547::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-11 16:18:43,598::INFO::TC1_DDT: Nop Commerce verify dashboard page title adm@yourstore.com adm = 2024-05-11 16:18:45,149::INFO::TC4: Navigated to dashboard page
+2024-05-11 16:18:51,923::INFO::TC4: Navigated to customer page

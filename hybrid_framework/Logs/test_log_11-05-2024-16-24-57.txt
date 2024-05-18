@@ -1,0 +1,17 @@
+2024-05-11 16:25:07,913::INFO::TC3: Nop Commerce verify Add Customer
+2024-05-11 16:25:07,914::INFO::TC3: Browser lauched successfully
+2024-05-11 16:25:10,198::INFO::TC3: Navigated to dashbord page
+2024-05-11 16:25:23,130::INFO::TC3: Nop Commerce verify Add Customer = PASSED
+2024-05-11 16:25:41,350::INFO::TC1: Nop Commerce verify dashbord page title
+2024-05-11 16:25:41,353::INFO::TC1: Browser lauched successfully
+2024-05-11 16:25:43,921::INFO::TC1: Logged into the dashbord page
+2024-05-11 16:25:43,945::INFO::TC1: Nop Commerce verify dashbord page title =  Passed
+2024-05-11 16:25:58,624::INFO::TC4: Nop Commerce verify Search option using email
+2024-05-11 16:25:58,634::INFO::TC4: Browser launched successfully
+2024-05-11 16:26:01,441::INFO::TC4: Navigated to dashboard page
+2024-05-11 16:26:08,245::INFO::TC4: Navigated to customer page
+2024-05-11 16:26:47,579::INFO::TC4: Nop Commerce verify Search option using firstname
+2024-05-11 16:26:47,581::INFO::TC4: Browser launched successfully
+2024-05-11 16:26:50,707::INFO::TC4: Navigated to dashboard page
+2024-05-11 16:26:57,895::INFO::TC4: Navigated to customer page
+2024-05-11 16:27:23,165::INFO::TC4: Nop Commerce verify Search option using firstname = PASSED

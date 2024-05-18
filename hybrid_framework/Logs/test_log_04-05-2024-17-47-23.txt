@@ -1,0 +1,16 @@
+2024-05-04 17:47:44,322::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-04 17:47:44,322::INFO::TC1_DDT: Browser launched successfully
+2024-05-04 17:47:50,718::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-04 17:47:53,267::INFO::TC1_DDT: Nop Commerce verify dashboard page title admin@yourstore.comadmin =  Passed
+2024-05-04 17:48:09,884::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-04 17:48:09,885::INFO::TC1_DDT: Browser launched successfully
+2024-05-04 17:48:11,022::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-04 17:48:11,060::INFO::TC1_DDT: Nop Commerce verify dashboard page title {email}{pswd} =  Passed
+2024-05-04 17:48:24,470::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-04 17:48:24,471::INFO::TC1_DDT: Browser launched successfully
+2024-05-04 17:48:25,601::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-04 17:48:25,620::INFO::TC1_DDT: Nop Commerce verify dashboard page title {email}{pswd} =  Passed
+2024-05-04 17:48:39,096::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-04 17:48:39,097::INFO::TC1_DDT: Browser launched successfully
+2024-05-04 17:48:40,153::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-04 17:48:40,192::INFO::TC1_DDT: Nop Commerce verify dashboard page title {email}{pswd} =  Passed

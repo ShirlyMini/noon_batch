@@ -1,0 +1,5 @@
+2024-05-11 15:56:03,392::INFO::TC4: Nop Commerce verify Search option using email
+2024-05-11 15:56:03,393::INFO::TC4: Browser launched successfully
+2024-05-11 15:56:05,753::INFO::TC4: Navigated to dashboard page
+2024-05-11 15:56:12,873::INFO::TC4: Navigated to customer page
+2024-05-11 15:56:17,856::INFO::TC4: Nop Commerce verify Search option using email = PASSED

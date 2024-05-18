@@ -1,0 +1,3 @@
+2024-05-11 15:14:07,038::INFO::TC3: Nop Commerce verify Add Customer
+2024-05-11 15:14:07,039::INFO::TC3: Browser lauched successfully
+2024-05-11 15:14:09,188::INFO::TC3: Navigated to dashbord page

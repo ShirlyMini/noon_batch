@@ -1,0 +1,4 @@
+2024-05-04 17:00:04,506::INFO::TC1: Nop Commerce verify dashbord page title
+2024-05-04 17:00:04,506::INFO::TC1: Browser lauched successfully
+2024-05-04 17:00:13,350::INFO::TC1: Logged into the dashbord page
+2024-05-04 17:00:13,357::INFO::TC1: Nop Commerce verify dashbord page title =  Passed

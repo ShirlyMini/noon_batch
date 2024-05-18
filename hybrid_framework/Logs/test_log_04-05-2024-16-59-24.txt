@@ -1,0 +1,2 @@
+2024-05-04 17:00:05,476::INFO::TC1: Nop Commerce verify launch page title
+2024-05-04 17:00:05,485::INFO::TC1: Nop Commerce verify launch page title = PASSED

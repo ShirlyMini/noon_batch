@@ -1,0 +1,36 @@
+2024-05-11 16:05:25,029::INFO::TC3: Nop Commerce verify Add Customer
+2024-05-11 16:05:25,029::INFO::TC3: Browser lauched successfully
+2024-05-11 16:05:27,264::INFO::TC3: Navigated to dashbord page
+2024-05-11 16:05:39,486::INFO::TC3: Nop Commerce verify Add Customer = PASSED
+2024-05-11 16:05:56,660::INFO::TC1: Nop Commerce verify launch page title
+2024-05-11 16:05:56,670::INFO::TC1: Nop Commerce verify launch page title = PASSED
+2024-05-11 16:06:10,289::INFO::TC1: Nop Commerce verify dashbord page title
+2024-05-11 16:06:10,290::INFO::TC1: Browser lauched successfully
+2024-05-11 16:06:13,459::INFO::TC1: Logged into the dashbord page
+2024-05-11 16:06:13,494::INFO::TC1: Nop Commerce verify dashbord page title =  Passed
+2024-05-11 16:06:26,530::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-11 16:06:26,534::INFO::TC1_DDT: Browser launched successfully
+2024-05-11 16:06:29,345::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-11 16:06:29,379::INFO::TC1_DDT: Nop Commerce verify dashboard page title admin@yourstore.com admin =  Passed
+2024-05-11 16:06:42,890::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-11 16:06:42,891::INFO::TC1_DDT: Browser launched successfully
+2024-05-11 16:06:43,940::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-11 16:06:44,089::INFO::TC1_DDT: Nop Commerce verify dashboard page title admin@yourstore.com adm =  Passed
+2024-05-11 16:06:59,236::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-11 16:06:59,236::INFO::TC1_DDT: Browser launched successfully
+2024-05-11 16:07:00,258::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-11 16:07:00,308::INFO::TC1_DDT: Nop Commerce verify dashboard page title adm@yourstore.com admin =  Passed
+2024-05-11 16:07:13,741::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-11 16:07:13,742::INFO::TC1_DDT: Browser launched successfully
+2024-05-11 16:07:14,878::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-11 16:07:14,925::INFO::TC1_DDT: Nop Commerce verify dashboard page title adm@yourstore.com adm =  Passed
+2024-05-11 16:07:27,628::INFO::TC4: Nop Commerce verify Search option using email
+2024-05-11 16:07:27,634::INFO::TC4: Browser launched successfully
+2024-05-11 16:07:30,377::INFO::TC4: Navigated to dashboard page
+2024-05-11 16:07:37,227::INFO::TC4: Navigated to customer page
+2024-05-11 16:07:42,213::INFO::TC4: Nop Commerce verify Search option using email = PASSED
+2024-05-11 16:07:56,083::INFO::TC4: Nop Commerce verify Search option using firstname
+2024-05-11 16:07:56,083::INFO::TC4: Browser launched successfully
+2024-05-11 16:07:58,578::INFO::TC4: Navigated to dashboard page
+2024-05-11 16:08:05,425::INFO::TC4: Navigated to customer page
+2024-05-11 16:08:10,638::INFO::TC4: Nop Commerce verify Search option using firstname = PASSED

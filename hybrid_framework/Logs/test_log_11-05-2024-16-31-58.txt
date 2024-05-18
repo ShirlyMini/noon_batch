@@ -1,0 +1,23 @@
+2024-05-11 16:32:05,538::INFO::TC1: Nop Commerce verify launch page title
+2024-05-11 16:32:05,547::INFO::TC1: Nop Commerce verify launch page title = PASSED
+2024-05-11 16:32:19,396::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-11 16:32:19,397::INFO::TC1_DDT: Browser launched successfully
+2024-05-11 16:32:21,577::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-11 16:32:21,623::INFO::TC1_DDT: Nop Commerce verify dashboard page title admin@yourstore.com admin =  Passed
+2024-05-11 16:32:34,923::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-11 16:32:35,054::INFO::TC1_DDT: Browser launched successfully
+2024-05-11 16:32:36,017::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-11 16:32:36,062::INFO::TC1_DDT: Nop Commerce verify dashboard page title admin@yourstore.com adm =  Passed
+2024-05-11 16:32:51,898::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-11 16:32:51,899::INFO::TC1_DDT: Browser launched successfully
+2024-05-11 16:32:52,853::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-11 16:32:52,989::INFO::TC1_DDT: Nop Commerce verify dashboard page title adm@yourstore.com admin =  Passed
+2024-05-11 16:33:06,681::INFO::TC1_DDT: Nop Commerce verify dashboard page title
+2024-05-11 16:33:06,682::INFO::TC1_DDT: Browser launched successfully
+2024-05-11 16:33:07,694::INFO::TC1_DDT: Logged into the dashboard page
+2024-05-11 16:33:07,840::INFO::TC1_DDT: Nop Commerce verify dashboard page title adm@yourstore.com adm =  Passed
+2024-05-11 16:33:20,690::INFO::TC4: Nop Commerce verify Search option using email
+2024-05-11 16:33:20,692::INFO::TC4: Browser launched successfully
+2024-05-11 16:33:23,881::INFO::TC4: Navigated to dashboard page
+2024-05-11 16:33:30,744::INFO::TC4: Navigated to customer page
+2024-05-11 16:33:38,768::INFO::TC4: Nop Commerce verify Search option using email = PASSED
