@@ -6,10 +6,10 @@ class login:
     id_password="Password"
     xpath_login="//button[@type='submit']"
 
-    def __init__(self, driver):
+):
         self.driver = driver
 
-    def SetEmail(self, email):
+    def SetEmail(    def __init__(self, driverself, email):
         self.driver.find_element(By.ID, self.id_username).clear()
         self.driver.find_element(By.ID, self.id_username).send_keys(email)
 
